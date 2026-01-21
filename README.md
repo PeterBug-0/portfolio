@@ -62,7 +62,7 @@ I believe in **deliberate skill-building and public learning**. This roadmap is 
 
 ### QA Automation
 - Appium (Mobile)
-- Selenium (Web)
+- Cypress (Web)
 - API Testing with Postman & Python (requests / pytest)
 - TestNG / Pytest / Allure Reporting
 
